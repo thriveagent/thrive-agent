@@ -1,0 +1,14 @@
+{
+  "name": "thrive-agent",
+  "version": "1.0.0",
+  "description": "THRIVE in your terminal: the live season score, the four house books, the meme picks and a read-only look at any wallet's roots and blooms on Robinhood Chain.",
+  "type": "module",
+  "bin": { "thrive": "bin/thrive.mjs" },
+  "files": ["bin", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://github.com/Dhkrmynti/thrive-agent#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/Dhkrmynti/thrive-agent.git" },
+  "bugs": { "url": "https://github.com/Dhkrmynti/thrive-agent/issues" },
+  "keywords": ["thrive", "robinhood-chain", "pons", "memecoin", "portfolio", "agent", "cli", "rebalance", "uniswap", "usdg"],
+  "license": "MIT"
+}
