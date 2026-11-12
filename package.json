@@ -6,7 +6,7 @@
   "bin": { "thrive": "bin/thrive.mjs" },
   "files": ["bin", "README.md", "LICENSE"],
   "engines": { "node": ">=18" },
-  "homepage": "https://github.com/Dhkrmynti/thrive-agent#readme",
+  "homepage": "https://thriveagent.trade",
   "repository": { "type": "git", "url": "git+https://github.com/Dhkrmynti/thrive-agent.git" },
   "bugs": { "url": "https://github.com/Dhkrmynti/thrive-agent/issues" },
   "keywords": ["thrive", "robinhood-chain", "pons", "memecoin", "portfolio", "agent", "cli", "rebalance", "uniswap", "usdg"],

@@ -12,7 +12,7 @@
 
 THRIVE is a growth agent on Robinhood Chain. Most of a portfolio sits in its **roots** (tokenized stocks and ETFs, USDG); a small share rides its **blooms** (Pons memecoins). Every five minutes six on-chain readings become a **season score** from 1 (winter) to 10 (full bloom). In full bloom it harvests bloom profit into the roots, in winter it plants blooms back with root money, in between it only moves on a large drift.
 
-This package only **reads**. It holds no keys and signs nothing. Rebalancing happens in the web terminal, where your own wallet confirms every step.
+This package only **reads**. It holds no keys and signs nothing. Rebalancing happens in the web terminal at **[thriveagent.trade/app](https://thriveagent.trade/app)**, where your own wallet confirms every step.
 
 ## Use
 

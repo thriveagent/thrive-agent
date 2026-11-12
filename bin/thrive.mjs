@@ -2,7 +2,7 @@
 // thrive: the THRIVE terminal for your shell. It only reads: no keys, no signing.
 // Rebalancing a wallet is signed in the web terminal, where the wallet itself confirms each step.
 const VERSION = "1.0.0";
-const DEFAULT_URL = "https://thrive.example";   // set to the live domain before publishing
+const DEFAULT_URL = "https://thriveagent.trade";
 const SERVER = (process.env.THRIVE_URL || DEFAULT_URL).replace(/\/$/, "");
 
 const tty = (process.stdout.isTTY || !!process.env.FORCE_COLOR) && !process.env.NO_COLOR;
