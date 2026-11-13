@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Dhkrmynti/thrive-agent/main/brand/logo.png" width="140" alt="THRIVE"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/thriveagent/thrive-agent/main/brand/logo.png" width="140" alt="THRIVE"></p>
 
 <h1 align="center">thrive-agent</h1>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/thrive-agent"><img src="https://img.shields.io/npm/v/thrive-agent?color=5b4fc4&label=npm" alt="npm"></a>
-  <a href="https://github.com/Dhkrmynti/thrive-agent"><img src="https://img.shields.io/badge/github-thrive--agent-28233f?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/thriveagent/thrive-agent"><img src="https://img.shields.io/badge/github-thrive--agent-28233f?logo=github" alt="GitHub"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8e81e6" alt="MIT"></a>
 </p>
 
