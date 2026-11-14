@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/thrive-agent"><img src="https://img.shields.io/npm/v/thrive-agent?color=5b4fc4&label=npm" alt="npm"></a>
   <a href="https://github.com/thriveagent/thrive-agent"><img src="https://img.shields.io/badge/github-thrive--agent-28233f?logo=github" alt="GitHub"></a>
+  <a href="https://x.com/thriverhai"><img src="https://img.shields.io/badge/X-@thriverhai-111111?logo=x" alt="X"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8e81e6" alt="MIT"></a>
 </p>
 
